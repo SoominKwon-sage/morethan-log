@@ -2,12 +2,12 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Soomin Kwon",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/Users/kwonsoomin/morethan-log/IMG_3755.JPG", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "student",
     bio: "I'm studying what I like.",
     email: "rnjstnals712@naver.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "",
+    github: "SoominKwon-sage",
     instagram: "",
   },
   projects: [
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Wonder Sage",
+    description: "welcome to Wonder Sage!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
